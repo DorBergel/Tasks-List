@@ -1,0 +1,5 @@
+0;Complete coding assignment
+0;Read a chapter from a book
+1;Go for a run
+0;Prepare for the meeting
+1;done this project
